@@ -1,0 +1,6 @@
+{
+  "name": "Home Food Corner",
+  "description": "Fresh street food, sizzling BBQ, creamy pasta, karak chai, and family dinners from Home Food Corner — order online with live tracking and rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
